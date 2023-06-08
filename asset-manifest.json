@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/react-shopping-cart-prod/static/js/main.5fc564cc.js",
+    "static/js/14.32a1c93a.chunk.js": "/react-shopping-cart-prod/static/js/14.32a1c93a.chunk.js",
+    "static/js/779.c7ab229d.chunk.js": "/react-shopping-cart-prod/static/js/779.c7ab229d.chunk.js",
+    "static/js/416.80309782.chunk.js": "/react-shopping-cart-prod/static/js/416.80309782.chunk.js",
+    "static/js/909.5d65e35e.chunk.js": "/react-shopping-cart-prod/static/js/909.5d65e35e.chunk.js",
+    "static/js/224.6a625555.chunk.js": "/react-shopping-cart-prod/static/js/224.6a625555.chunk.js",
+    "static/media/patrick.jpg": "/react-shopping-cart-prod/static/media/patrick.98dc90d0e5c2efd4e81e.jpg",
+    "static/media/Baemin.ttf": "/react-shopping-cart-prod/static/media/Baemin.d20f6c68004f7588ee16.ttf",
+    "static/media/CartIcon.svg": "/react-shopping-cart-prod/static/media/CartIcon.1b997ecfbbe5f5bb87f068599663878b.svg",
+    "static/media/CartLogo.svg": "/react-shopping-cart-prod/static/media/CartLogo.da82aaf0d9b5a13c5081108ad03dae14.svg",
+    "static/media/GarbageIcon.svg": "/react-shopping-cart-prod/static/media/GarbageIcon.cdfa98e9e798d3393825ae7ac4646706.svg",
+    "index.html": "/react-shopping-cart-prod/index.html",
+    "main.5fc564cc.js.map": "/react-shopping-cart-prod/static/js/main.5fc564cc.js.map",
+    "14.32a1c93a.chunk.js.map": "/react-shopping-cart-prod/static/js/14.32a1c93a.chunk.js.map",
+    "779.c7ab229d.chunk.js.map": "/react-shopping-cart-prod/static/js/779.c7ab229d.chunk.js.map",
+    "416.80309782.chunk.js.map": "/react-shopping-cart-prod/static/js/416.80309782.chunk.js.map",
+    "909.5d65e35e.chunk.js.map": "/react-shopping-cart-prod/static/js/909.5d65e35e.chunk.js.map",
+    "224.6a625555.chunk.js.map": "/react-shopping-cart-prod/static/js/224.6a625555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5fc564cc.js"
+  ]
+}
